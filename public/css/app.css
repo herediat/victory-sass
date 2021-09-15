@@ -17404,4 +17404,30 @@ header .banner_content {
   margin: 5%;
 }
 
+.section4 .arrière-plan {
+  background-image: url(../img/signup-bg.jpg);
+  background-size: cover;
+  height: 40vh;
+  color: #fff;
+  text-transform: uppercase;
+  text-align: center;
+  text-align: center;
+  color: #fff;
+}
+.section4 .arrière-plan h2, .section4 .arrière-plan .h2 {
+  transform: translate(0, 130px);
+}
+.section4 .arrière-plan form {
+  transform: translate(0, 130px);
+}
+.section4 .arrière-plan form input {
+  padding-left: 10px;
+  padding-right: 90px;
+}
+.section4 .arrière-plan form button {
+  background: transparent;
+  color: #fff;
+  padding: 20px;
+}
+
 /*# sourceMappingURL=app.css.map */
