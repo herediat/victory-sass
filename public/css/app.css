@@ -17279,4 +17279,45 @@ header .banner_content {
   transform: translate(0, 250px);
 }
 
+.section1 .cook1 {
+  display: flex;
+  margin-top: 2%;
+  justify-content: center;
+}
+.section1 .cook1 img {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  width: 270px;
+}
+.section1 .cook1 .couleur1 {
+  width: 300px;
+  padding-top: 150px;
+}
+.section1 .cook1 .couleur1 p {
+  border: 10px;
+  background-color: red;
+  padding: 5%;
+}
+.section1 .cook1 .couleur1 p span {
+  font-size: 2%;
+}
+.section1 .cook1 .couleur1 p span .btn button a {
+  text-transform: uppercase;
+}
+.section1 .food {
+  display: flex;
+  justify-content: center;
+  margin-top: 8%;
+}
+.section1 .food div {
+  margin: 3%;
+  text-align: center;
+}
+.section1 .food div a {
+  margin: 3%;
+  text-decoration: none;
+  color: grey;
+  text-transform: capitalize;
+}
+
 /*# sourceMappingURL=app.css.map */
