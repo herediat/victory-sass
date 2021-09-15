@@ -17293,15 +17293,15 @@ header .banner_content {
   width: 300px;
   padding-top: 150px;
 }
-.section1 .cook1 .couleur1 p {
+.section1 .cook1 .couleur1 .phone {
   border: 10px;
   background-color: red;
   padding: 5%;
 }
-.section1 .cook1 .couleur1 p span {
+.section1 .cook1 .couleur1 .phone span {
   font-size: 2%;
 }
-.section1 .cook1 .couleur1 p span .btn button a {
+.section1 .cook1 .couleur2 .btn button {
   text-transform: uppercase;
 }
 .section1 .food {
@@ -17318,6 +17318,24 @@ header .banner_content {
   text-decoration: none;
   color: grey;
   text-transform: capitalize;
+}
+
+.section2 {
+  background-color: orange;
+}
+.section2 div {
+  text-align: center;
+}
+.section2 div h3, .section2 div .h3 {
+  text-transform: uppercase;
+  padding: 3%;
+}
+.section2 div button {
+  text-transform: uppercase;
+  margin: 2%;
+  padding: 2%;
+  border-radius: 5px;
+  background-color: yellow;
 }
 
 /*# sourceMappingURL=app.css.map */
