@@ -17430,4 +17430,11 @@ header .banner_content {
   padding: 20px;
 }
 
+footer {
+  background-color: grey;
+}
+footer .icons {
+  text-align: center;
+}
+
 /*# sourceMappingURL=app.css.map */
