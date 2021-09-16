@@ -17431,10 +17431,28 @@ header .banner_content {
 }
 
 footer {
-  background-color: grey;
+  background-color: #363E50;
+  display: flex;
+  justify-content: space-between;
+  padding: 5%;
+}
+footer .copyright {
+  color: #fff;
+  text-transform: capitalize;
 }
 footer .icons {
   text-align: center;
+}
+footer .icons i {
+  margin: 10px;
+  border-radius: 100px;
+  border: solid #fff;
+  background-color: #fff;
+  padding: 2%;
+}
+footer .design span {
+  text-transform: uppercase;
+  color: #fff;
 }
 
 /*# sourceMappingURL=app.css.map */
